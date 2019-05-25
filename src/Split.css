@@ -1,0 +1,74 @@
+.Split-header {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    border-radius: 0.5rem;
+    background-color: #e31d3b;
+    -webkit-box-shadow: 0px 0px 30px -2px rgba(97,96,97,0.99);
+    -moz-box-shadow: 0px 0px 30px -2px rgba(97,96,97,0.99);
+    box-shadow: 0px 0px 30px -2px rgba(97,96,97,0.99);
+}
+.Split{
+    padding-bottom: 1rem;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    color: #f9f9f9;
+}
+.Split-cost {
+    font-size: 1.2rem;
+    padding: 1rem;
+}
+.Split-details {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.Split-details div {
+    color: #e31d3b;
+    width: 150px;
+    border-radius: 0.5rem;
+    background-color: white;
+    font-size: 1.3rem;
+}
+.Split-fee {
+    font-weight: bolder;
+}
+
+.loader {
+    width: 50px;
+    height: 50px;
+    border: 8px solid;
+    border-top-color: #e31d3b;
+    border-left-color: #e31d3b;
+    border-bottom-color: #e31d3b;
+    border-right-color: #e31d3b;
+    border-radius: 50%;
+    transform: rotate(45deg);
+    margin: 30px auto;
+  }
+  .loading {
+    display: inline-block;
+    width: 57px;
+    height: 57px;
+    /* The background is used to specify the border background */
+    background: linear-gradient(90deg, hsla(212,67%,36%,0) 0%,
+                                           hsla(207,69%,51%,0) 76%,
+                                           hsla(0,0%,100%,1) 85%,
+                                           hsla(0,0%,100%,1) 100%); /* W3C */
+    /* Background origin is the padding box by default.
+    Override to make the background cover the border as well. */
+    -moz-background-origin: border;
+    background-origin: border-box;
+    /* A transparent border determines the width */
+    border: 6px solid transparent;
+    border-radius: 50%;
+    box-shadow: inset -999px 0 0 #fff; /* The background color */
+    transform: translate(-8px, 55px);
+    animation: loading 1s linear infinite;
+  }
+  
+  @keyframes loading {
+      0% { transform: translate(-9px, -25px) rotate(0deg); }
+    100% { transform: translate(-9px, -25px) rotate(360deg); }
+  }
