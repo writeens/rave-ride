@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e6e9d319c08f90c26e989364bc1a54be",
+    "revision": "adf9927335b7ac61f641ba5ac847a32e",
     "url": "/rave-ride/index.html"
   },
   {
