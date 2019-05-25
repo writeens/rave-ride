@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/rave-ride/static/css/main.87f4b047.chunk.css",
+    "main.css": "/rave-ride/static/css/main.f12b93ff.chunk.css",
     "main.js": "/rave-ride/static/js/main.99f9d457.chunk.js",
     "main.js.map": "/rave-ride/static/js/main.99f9d457.chunk.js.map",
     "runtime~main.js": "/rave-ride/static/js/runtime~main.5ba977d4.js",
@@ -8,8 +8,8 @@
     "static/js/2.4097e043.chunk.js": "/rave-ride/static/js/2.4097e043.chunk.js",
     "static/js/2.4097e043.chunk.js.map": "/rave-ride/static/js/2.4097e043.chunk.js.map",
     "index.html": "/rave-ride/index.html",
-    "precache-manifest.0b0d5d59306e5f540527ef46dd023307.js": "/rave-ride/precache-manifest.0b0d5d59306e5f540527ef46dd023307.js",
+    "precache-manifest.3cce1d56450891fe5885a4ae50f7f569.js": "/rave-ride/precache-manifest.3cce1d56450891fe5885a4ae50f7f569.js",
     "service-worker.js": "/rave-ride/service-worker.js",
-    "static/css/main.87f4b047.chunk.css.map": "/rave-ride/static/css/main.87f4b047.chunk.css.map"
+    "static/css/main.f12b93ff.chunk.css.map": "/rave-ride/static/css/main.f12b93ff.chunk.css.map"
   }
 }
