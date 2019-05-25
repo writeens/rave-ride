@@ -1,0 +1,45 @@
+.Ride{
+    display: flex;
+    justify-content: center;
+}
+.Ride-all{
+    width: 450px;
+    border-radius: 0.8rem;
+    background-color: white;
+    margin-left: 0.3rem;
+    margin-right: 0.3rem;
+    -webkit-box-shadow: 0px 0px 30px -2px rgba(97,96,97,0.99);
+    -moz-box-shadow: 0px 0px 30px -2px rgba(97,96,97,0.99);
+    box-shadow: 0px 0px 30px -2px rgba(97, 96, 97, 0.555);
+}
+.Ride-map {
+    margin: 1rem;
+}
+.Ride-fare {
+    margin: 2rem 1rem 1.5rem 1rem;
+    display: flex;
+}
+.Ride-button {
+    margin: 1rem;
+}
+.Ride-button button {
+    cursor: pointer;
+    font-family: Lato;
+    width: fit-content;
+    color: #e31d3b;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    border:3px solid #e31d3b;
+    background-color: white;
+    border-radius: 0.5rem;
+    -webkit-box-shadow: 0px 0px 30px -2px rgba(97,96,97,0.99);
+    -moz-box-shadow: 0px 0px 30px -2px rgba(97,96,97,0.99);
+    box-shadow: 0px 0px 30px -2px rgba(97, 96, 97, 0.555);
+}
+.Ride-button button:disabled {
+    cursor: not-allowed;
+}
+.Ride-details {
+    display: flex;
+    flex-direction: row;
+    margin: 1rem;
+}
