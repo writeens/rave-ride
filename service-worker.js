@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/rave-ride/precache-manifest.9411a988b77af980a757785801f8bdd3.js"
+  "/rave-ride/precache-manifest.753666af08db4dee897cfc698e1cc8da.js"
 );
 
 self.addEventListener('message', (event) => {
