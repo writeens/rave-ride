@@ -1,13 +1,13 @@
 .App {
   text-align: center;
-  background-color: #e31d3b;
+  background-color: #F9FAFA;
   min-height: 100vh;
   font-family: Lato;
 }
 .App-title {
-  font-size: 1.3rem;
+  font-size: 1.5rem;
   margin: 0;
   font-weight: 900;
   padding: 1rem;
-  color: #f9f9f9;
+  color: #2A4553;
 }

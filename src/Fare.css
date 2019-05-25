@@ -1,12 +1,11 @@
 .Fare {
-    border: 1px solid red;
-    color: #f9f9f9;
+    color: #2A4553;
     width: 100%;
     border-radius: 0.9rem;
-    background-color: #e31d3b;
-    -webkit-box-shadow: 0px 0px 30px -2px rgba(97,96,97,0.99);
-    -moz-box-shadow: 0px 0px 30px -2px rgba(97,96,97,0.99);
-    box-shadow: 0px 0px 30px -2px rgba(97,96,97,0.99);
+    background-color: #F9FAFA;
+    -webkit-box-shadow: 0px 0px 30px -2px rgba(97,96,97,0.7);
+    -moz-box-shadow: 0px 0px 30px -2px rgba(97,96,97,0.7);
+    box-shadow: 0px 0px 30px -2px rgba(97, 96, 97, 0.7);
 }
 .Fare-fare {
     font-size: 1.7rem;
