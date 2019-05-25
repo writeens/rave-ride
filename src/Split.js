@@ -13,7 +13,7 @@ class Split extends Component {
                     <div className="Split-cost">Fare Cost: {(this.props.fare) ? `NGN ${this.props.fare}` : 0}</div>
                     <div className="Split-details">
                         <div>
-                            <p>Company</p>
+                            <p>Company (25%)</p>
                             {(companyCom) ? <p className="Split-fee">{`NGN ${companyCom}`}</p> : ""}
                         </div>
                         <div>
